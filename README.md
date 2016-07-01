@@ -8,4 +8,4 @@ This is my fancy .bash_profile on Mac
 
 ## License
 
-[MIT License](LICENSE) © Vijayendra Bapte
+[MIT License](https://vijayendra.mit-license.org/) © Vijayendra Bapte
